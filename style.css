@@ -1,0 +1,43 @@
+h1{
+	color:white;
+	text-align: center;
+
+}
+h2{
+	
+	color: hot pink;
+	text-align: center;
+	letter-spacing: 1px;
+	font: 30px;
+	
+}
+h3{
+	color:white;
+	display: center;
+	text-align: center;
+	font-size: 35px
+	
+}
+	
+body{
+      background-image:url(https://media4.s-nbcnews.com/i/newscms/2015_25/636901/grill-stock-tease-today-150618_535cbb77cb3384a6c51fd74727514d23.jpg) ;
+	  background-repeat:no-repeat;
+	  padding:50px ;
+	  size: 
+	  
+	  
+	  `1;
+	  background-size: cover;
+	
+	
+}
+
+a:visited {
+    color: white;
+}
+/* unvisited link */
+
+a:link {
+    color: white;
+}
+
